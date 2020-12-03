@@ -174,4 +174,47 @@ Y de esta manera no debe aparecer, en la parte de arriba se nos muestra el nombr
 
 ## Cambiar la configuración de Gradle de la aplicación 
 # Cambiar la versión mínima del SDK para la aplicación
+# Encuentre el fichero build.gradle (Module:app)
+<img src="Medio\imagen35.png/">
+
+# Busque la propiedad minSdkVersion a un nivel más bajo
+
+<img src="Medio\imagen44.png/">
+
+# Utilice instrucciones de Log para su aplicación
+
+
+## II. Tu primera interfaz de usuario interactiva
+
+# Tarea 2.1: Crear el proyecto de Android Studio
+Vamos a crear un nuevo proyecto, así que damos clic en iniciar un nuevo proyecto, el cual se encuentra señalado con un círculo.  
+
+<img src="Medio\imagen36.png/">
+
+Luego de eso nos envía a otra ventana, en donde debemos elegir con cuál de las plantillas queremos trabajar, en este caso voy a elegir la plantilla de <Empty Activity> y seguido le damos clic en la opcion <Next>
+
+<img src="Medio\imagen37.png/">
+
+Una vez que hayamos dado clic en <Next>, nos envía a otra ventana, en donde vamos a editar los campos con datos los cuales nos indican, entre ellos está, el nombre del proyecto la ubicación en donde deseamos guardarlo, el tipo de lenguaje, entre otros, rellenamos y le damos finish.
+<img src="Medio\imagen38.png/">
+<img src="Medio\imagen39.png/">
+
+Una vez entrando a la ventana en donde vamos a estar trabajando, vamos a realizar lo que nos están indicando y ya luego de tenerlo, vamos a realizar lo que es la depuración.  
+
+<img src="Medio\imagen40.png/">
+
+# Explorar el editor de diseño
+
+<img src="Medio\imagen41.png/">
+
+# Investigue:
+
+## Como utilizar el recurso strings.xml y colors.xml. Muestre un ejemplo de su aplicación
+
+# Como utilizar el recurso strings.xml y colors.xml. Muestre un ejemplo de su aplicación
+Un recurso de string ofrece strings de texto para tu aplicación con formato y estilo de texto opcionales. Existen tres tipos de recursos que pueden proporcionar strings para tu aplicación:
+
+<img src="Medio\imagen43.png/">
+
+ Y color contienen los métodos de ayuda
 
